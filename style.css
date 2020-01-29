@@ -1,0 +1,56 @@
+h1{
+    color: rgba(0,255,0);
+}
+h2{
+    background-color: rgb(253, 247, 253);
+    color: blue;
+    width: 30%
+}
+h3{
+    background-color: rgb(249, 249, 250);
+    color: blue;
+}
+h4{
+    color: rgba(200,10,150);
+}
+body{
+    background: rgba(192, 190, 190, 0.2)
+}
+div{
+    margin: 20px;
+    overflow: hidden;
+    background-color: #516489;
+    padding: 10px;
+    width:50%;
+    height: 200px;
+    border-radius: 10px;
+    -webkit-box-shadow: 3px 3px 5px 6px rgb(56, 51, 51);
+    -moz-box-shadow:    3px 3px 5px 6px rgb(63, 54, 54);
+    box-shadow:         3px 3px 5px 6px rgb(51, 50, 50);
+}
+.box {
+    width:70%;
+    height:200px;
+    background:#FFF;
+    margin:40px auto;
+}
+
+.card{
+    background-color: rgb(212, 84, 37);
+}
+h5{
+    margin: 0px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(10, 10, 10)
+}
+h6{
+    margin: 0px;
+    text-align: center;
+    font-size: 22px;
+    color: rgb(206, 200, 200)
+    
+}
+.right{
+    float: right;
+}
